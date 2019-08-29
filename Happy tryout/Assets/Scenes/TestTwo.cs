@@ -2,17 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestOne : MonoBehaviour {
+public class TestTwo : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () 
-	{
-		print("Hello World");
+	void Start () {
+		
 	}
 	
 	// Update is called once per frame
-	void Update () 
-	{
-		print("Updating");
+	void Update () {
+		
 	}
 }
