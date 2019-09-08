@@ -5,6 +5,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.Experimental.UIElements;
 
 public class Cylinder : MonoBehaviour
@@ -12,8 +13,7 @@ public class Cylinder : MonoBehaviour
     public float floatValue = 12.3f;
     public int intValue = 47;
     public string stringValue = "Cheese";
-    
-    
+    public UnityEvent Event;
     
     //When it ENTERS sphere, it causes message.
     public void OnTriggerEnter(Collider other)
