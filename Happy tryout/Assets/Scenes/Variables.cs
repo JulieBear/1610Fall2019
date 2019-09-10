@@ -6,7 +6,7 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.Experimental.UIElements;
 
-public class Variables : MonoBehaviour
+public abstract class Variables : MonoBehaviour
 {
 
 	public float floatValue = 5.5f;
@@ -55,4 +55,9 @@ public class Variables : MonoBehaviour
 	}
 
 	
+	// Have no idea what I am doing here...this is likely nonsense
+	//public virtual void QueryTriggerInteraction (CapsuleCollider 
+	//{
+	//	print("still");
+	//}
 }
