@@ -6,7 +6,7 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.Experimental.UIElements;
 
-public abstract class Variables : MonoBehaviour
+public class Variables : MonoBehaviour
 {
 
 	public float floatValue = 5.5f;
