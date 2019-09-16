@@ -14,4 +14,10 @@ public class MouseEvents : MonoBehaviour
 		mouseEvent.Invoke();
 	}
 	
+	//This caused such interesting things to happen.
+	//private void OnTriggerEnter(Collider other)
+	//{
+	//	mouseEvent.Invoke();
+//	}
+	
 }
