@@ -13,10 +13,11 @@ public class Movement : MonoBehaviour
 	{
 		//transform.Translate(position*Time.deltaTime);
 		position.x = speed * Input.GetAxis("Horizontal");
+		position.z = speed * Input.GetAxis("Vertical");
 		//position.y += gravity;
 
 		// -- Runner
-		//position.x = speed;
+		// position.x = speed;
 
 		if (!controller.isGrounded)
 		{
@@ -33,5 +34,10 @@ public class Movement : MonoBehaviour
 		}
 		
 		controller.Move(position*Time.deltaTime);
+
+		// -- Don't know what this does, but it looked cool.
+		//Input.GetButton("Submit");
+		
+		
 	}
 }
