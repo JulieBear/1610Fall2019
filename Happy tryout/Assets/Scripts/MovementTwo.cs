@@ -42,4 +42,5 @@ public class MovementTwo : MonoBehaviour
 		
 		controller.Move(position*Time.deltaTime);
 	}
+	
 }
