@@ -10,6 +10,7 @@
           <e p="Cylinder.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
           <e p="FloatValue.cs" t="Include" />
+          <e p="Functions.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
           <e p="IfState.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
