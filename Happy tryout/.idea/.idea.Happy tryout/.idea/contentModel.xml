@@ -4,6 +4,7 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="ScO.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
           <e p="CatClass.cs" t="Include" />
@@ -18,7 +19,6 @@
           <e p="MovementThree.cs" t="Include" />
           <e p="MovementTwo.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
-          <e p="ScO.cs" t="Include" />
           <e p="ScriptObj.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
