@@ -12,6 +12,7 @@
           <e p="DogClass.cs" t="Include" />
           <e p="FloatValue.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="Gravity.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
           <e p="IfState.cs" t="Include" />
           <e p="IntDataOb.cs" t="Include" />
