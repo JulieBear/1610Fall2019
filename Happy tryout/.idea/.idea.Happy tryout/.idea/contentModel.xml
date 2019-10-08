@@ -23,6 +23,7 @@
           <e p="MovementTwo.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="ScriptObj.cs" t="Include" />
+          <e p="Trigger.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />

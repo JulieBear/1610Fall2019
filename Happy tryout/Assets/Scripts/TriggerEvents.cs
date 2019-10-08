@@ -12,6 +12,17 @@ namespace Script
         private void OnTriggerEnter(Collider other)
         {
             triggerEvent.Invoke();
+            print("work");
+        }
+
+        private void OnTriggerExit(Collider other)
+        {
+            triggerEvent.Invoke();
+        }
+
+        private void OnMouseExit()
+        {
+            print("let's see");
         }
     }
 }
