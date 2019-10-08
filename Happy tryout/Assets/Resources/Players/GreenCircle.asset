@@ -8,9 +8,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b934ea8ca714d45789c75a4fe4f7926a, type: 3}
-  m_Name: AmmoCount
+  m_Script: {fileID: 11500000, guid: 69a73424f9aa34325b01335515c88e07, type: 3}
+  m_Name: GreenCircle
   m_EditorClassIdentifier: 
-  value: 4662
-  minValue: 0
-  maxValue: 1
+  sprite: {fileID: 21300000, guid: 4e992996b3ace4dfd80e61e7751c0dd7, type: 3}
+  color: {r: 0.64119726, g: 0.8679245, b: 0.55268776, a: 1}
+  prefab: {fileID: 0}
