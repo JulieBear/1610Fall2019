@@ -1,10 +1,15 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 [CreateAssetMenu]
 public class PlayerDataC : GameArtData
 {
-    public WeaponData weapon;
-
+    public List<WeaponData> weapons;
+    
+    public FloatValue health;
+    public ClothesData shirt;
+    public ClothesData pants;
+    
     public void InstancePlayer()
     {
         var newPlayer = Instantiate(prefab);
