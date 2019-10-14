@@ -8,31 +8,34 @@
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
           <e p="CatClass.cs" t="Include" />
-          <e p="ClothesData.cs" t="Include" />
           <e p="Coin.cs" t="Include" />
           <e p="Cylinder.cs" t="Include" />
+          <e p="Data" t="Include">
+            <e p="ClothesData.cs" t="Include" />
+            <e p="FloatValue.cs" t="Include" />
+            <e p="GameArtData.cs" t="Include" />
+            <e p="IntDataOb.cs" t="Include" />
+            <e p="PlayerDataC.cs" t="Include" />
+            <e p="PowersData.cs" t="Include" />
+            <e p="WeaponData.cs" t="Include" />
+          </e>
           <e p="DogClass.cs" t="Include" />
-          <e p="FloatValue.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
-          <e p="GameArtData.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
           <e p="IfState.cs" t="Include" />
-          <e p="IntDataOb.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="MovementThree.cs" t="Include" />
           <e p="MovementTwo.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
-          <e p="PlayerDataC.cs" t="Include" />
           <e p="ScriptObj.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
-          <e p="WeaponData.cs" t="Include" />
         </e>
         <e p="Test.cs" t="Include" />
       </e>

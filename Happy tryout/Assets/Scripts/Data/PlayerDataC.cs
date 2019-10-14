@@ -9,6 +9,7 @@ public class PlayerDataC : GameArtData
     public FloatValue health;
     public ClothesData shirt;
     public ClothesData pants;
+    public PowersData powerLvl;
     
     public void InstancePlayer()
     {
