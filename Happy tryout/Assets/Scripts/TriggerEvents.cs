@@ -14,15 +14,5 @@ namespace Script
             triggerEvent.Invoke();
         }
 
-        private void OnTriggerExit(Collider other)
-        {
-            triggerEvent.Invoke();
-        }
-
-        private void OnMouseExit()
-        {
-            
-            
-        }
     }
 }
