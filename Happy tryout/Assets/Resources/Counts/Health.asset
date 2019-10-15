@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Name: Health
   m_EditorClassIdentifier: 
   value: 1
+  minValue: 0
+  maxValue: 1

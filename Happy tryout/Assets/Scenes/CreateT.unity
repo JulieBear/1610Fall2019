@@ -219,8 +219,8 @@ GameObject:
   - component: {fileID: 1037153184}
   - component: {fileID: 1037153183}
   - component: {fileID: 1037153182}
-  - component: {fileID: 1037153181}
   - component: {fileID: 1037153186}
+  - component: {fileID: 1037153181}
   m_Layer: 0
   m_Name: Coin
   m_TagString: Player
@@ -236,9 +236,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 1037153180}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d551ef0bce1fe426a965e0f746be2492, type: 3}
+  m_Script: {fileID: 11500000, guid: 8ea69535793884a0389baaea240ee0b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  triggerEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!135 &1037153182
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -300,7 +316,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1037153180}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.22, y: -1.83, z: -3.36}
   m_LocalScale: {x: 1.9842424, y: 1.9842429, z: 1.0319272}
   m_Children: []
   m_Father: {fileID: 0}
@@ -429,7 +445,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1288980173}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -483,7 +499,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1288980173}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6, y: -2.5, z: -7.0310955}
+  m_LocalPosition: {x: -6, y: -2.34, z: -2.86}
   m_LocalScale: {x: 1, y: 2.1375017, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -691,13 +707,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_MethodName: UpdateImage
-        m_Mode: 2
+      - m_Target: {fileID: 11400000, guid: 756271e55fead4df8b84d955c492f7e7, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 4
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: dc1c800a355134088a7ef633c17414ba,
-            type: 2}
-          m_ObjectArgumentAssemblyTypeName: FloatValue, Assembly-CSharp
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1014,8 +1029,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -269.2, y: -89.3}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 55, y: 96}
+  m_SizeDelta: {x: 143.51, y: 18.78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1973958909
 MonoBehaviour:
@@ -1038,10 +1053,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 14
+    m_FontSize: 15
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -1049,7 +1064,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 1
+  m_Text: 14
 --- !u!222 &1973958910
 CanvasRenderer:
   m_ObjectHideFlags: 0

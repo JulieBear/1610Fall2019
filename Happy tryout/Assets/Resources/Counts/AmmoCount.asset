@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b934ea8ca714d45789c75a4fe4f7926a, type: 3}
   m_Name: AmmoCount
   m_EditorClassIdentifier: 
-  value: 4662
+  value: 10.300003
   minValue: 0
   maxValue: 1
