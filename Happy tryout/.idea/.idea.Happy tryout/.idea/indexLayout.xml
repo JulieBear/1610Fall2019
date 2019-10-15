@@ -5,6 +5,7 @@
     <explicitIncludes>
       <Path>Packages</Path>
       <Path>ProjectSettings</Path>
+      <Path>../../../../Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.2.10-preview.4</Path>
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>

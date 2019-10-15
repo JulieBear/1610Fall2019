@@ -241,3 +241,7 @@
 /Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/obj/Debug/Assembly-CSharp.csproj.CopyComplete
 /Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/obj/Debug/Assembly-CSharp.dll
 /Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/obj/Debug/Assembly-CSharp.pdb
+/Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/Temp/bin/Debug/Cinemachine.dll
+/Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/Temp/bin/Debug/com.unity.cinemachine.editor.dll
+/Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/Temp/bin/Debug/Cinemachine.dll.mdb
+/Users/JJC/Documents/Github 10697751/1610Fall2019/Happy tryout/Temp/bin/Debug/com.unity.cinemachine.editor.dll.mdb

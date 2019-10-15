@@ -1,10 +1,13 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [CreateAssetMenu]
 public class PlayerDataC : GameArtData
 {
     public List<WeaponData> weapons;
+
+    public UnityAction<GameObject> instanceAction;
     
     public FloatValue health;
     public ClothesData shirt;
@@ -17,5 +20,6 @@ public class PlayerDataC : GameArtData
         var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
         newSprite.sprite = sprite;
         newSprite.color = color;
+        instanceAction(newPlayer);
     }
 }
