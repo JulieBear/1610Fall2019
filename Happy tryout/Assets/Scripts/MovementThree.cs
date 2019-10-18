@@ -6,7 +6,7 @@ public class MovementThree : MonoBehaviour
 {
 	public UnityEvent eve;
 	public CharacterController control;
-	public float moveSpeed = 10f, gravity = 9.81f, jumpSpeed = 30f;
+	public float moveSpeed = 10f, gravity = 4f, jumpSpeed = 30f;
 	public int jumpCountMax = 2;
 	private Vector3 pose;
 	private int jumpCount;

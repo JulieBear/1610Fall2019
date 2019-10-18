@@ -8,11 +8,12 @@ public class PlayerDataC : GameArtData
     public List<WeaponData> weapons;
 
     public UnityAction<GameObject> instanceAction;
-    
+
     public FloatValue health;
     public ClothesData shirt;
     public ClothesData pants;
     public PowersData powerLvl;
+
     
     public void InstancePlayer()
     {
@@ -20,6 +21,7 @@ public class PlayerDataC : GameArtData
         var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
         newSprite.sprite = sprite;
         newSprite.color = color;
-        instanceAction(newPlayer);
+        //instanceAction(newPlayer);
+        
     }
 }

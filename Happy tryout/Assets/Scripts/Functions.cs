@@ -9,7 +9,7 @@ public class Functions : MonoBehaviour
 	private int myNumber;
 	public float speed = 5f;
 	public GameObject player;
-	public Color playerColor = Color.red;
+	public Color playerColor;
 	void Start ()
 	{
 		ConfigGameObject();
