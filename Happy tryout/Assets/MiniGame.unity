@@ -301,14 +301,27 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 11400000, guid: 2fc06887aac864c5d87d24312e74f101, type: 2}
-        m_MethodName: UpdateValue
-        m_Mode: 3
+      - m_Target: {fileID: 1616219168}
+        m_MethodName: UpdateText
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgument: {fileID: 11400000, guid: 2fc06887aac864c5d87d24312e74f101,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: IntDataOb, Assembly-CSharp
           m_IntArgument: 2
           m_FloatArgument: 1
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 940883339}
+        m_MethodName: UpdateImage
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: dc1c800a355134088a7ef633c17414ba,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: FloatValue, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -338,6 +351,8 @@ GameObject:
   - component: {fileID: 935905430}
   - component: {fileID: 935905429}
   - component: {fileID: 935905428}
+  - component: {fileID: 935905433}
+  - component: {fileID: 935905432}
   m_Layer: 0
   m_Name: Damage
   m_TagString: Untagged
@@ -352,7 +367,7 @@ BoxCollider:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 935905427}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -406,12 +421,54 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 935905427}
   m_LocalRotation: {x: -0, y: -0, z: -0.41683444, w: 0.90898246}
-  m_LocalPosition: {x: 11.55, y: -2.46, z: -10}
+  m_LocalPosition: {x: 11.55, y: -2.46, z: -0.94}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -49.27}
+--- !u!114 &935905432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 935905427}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b10a924f124e4120802b656af9f71b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EvTest:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: dc1c800a355134088a7ef633c17414ba, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 2
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!54 &935905433
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 935905427}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &940883337
 GameObject:
   m_ObjectHideFlags: 0
@@ -866,8 +923,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1616219167}
   - component: {fileID: 1616219170}
-  - component: {fileID: 1616219169}
   - component: {fileID: 1616219168}
+  - component: {fileID: 1616219169}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
