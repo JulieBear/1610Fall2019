@@ -25,7 +25,6 @@ GameObject:
   - component: {fileID: 114553512082137292}
   - component: {fileID: 54562437665136958}
   - component: {fileID: 114963850581933618}
-  - component: {fileID: 114990067191165864}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -85,7 +84,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   eve:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 2fc06887aac864c5d87d24312e74f101, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   control: {fileID: 0}
@@ -105,21 +115,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forces: {x: 0, y: 0, z: 0}
---- !u!114 &114990067191165864
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1206253851036848}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9579ce2f884e8472bbc9389b7105ddac, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerName: 
-  speed: 5
-  player: {fileID: 1206253851036848}
-  playerColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!143 &143057251631076234
 CharacterController:
   m_ObjectHideFlags: 1
