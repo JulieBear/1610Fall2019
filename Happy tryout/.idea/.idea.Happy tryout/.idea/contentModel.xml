@@ -10,6 +10,10 @@
           <e p="ApplyForce.cs" t="Include" />
           <e p="CineMacController.cs" t="Include" />
           <e p="Coin.cs" t="Include" />
+          <e p="Collections" t="Include">
+            <e p="GameArtCollection.cs" t="Include" />
+            <e p="Lists.cs" t="Include" />
+          </e>
           <e p="Cylinder.cs" t="Include" />
           <e p="Data" t="Include">
             <e p="ClothesData.cs" t="Include" />
