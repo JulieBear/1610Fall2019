@@ -37,6 +37,6 @@ public class MovementThree : MonoBehaviour
 		}
 		
 
-		control.Move(pose * Time.deltaTime);
+	control.Move(pose * Time.deltaTime);
 	}
 }
