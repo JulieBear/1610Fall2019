@@ -6,13 +6,17 @@ namespace Script
 {
     public class TriggerEvents : MonoBehaviour
     {
-        public UnityEvent triggerEvent;
+        public UnityEvent triggerEnterEvent, triggerExitEvent;
             
         // W: ontrigger
         private void OnTriggerEnter(Collider other)
         {
-            triggerEvent.Invoke();
+            triggerEnterEvent.Invoke();
         }
 
+        private void OnTriggerExit(Collider other)
+        {
+            triggerExitEvent.Invoke();
+        }
     }
 }

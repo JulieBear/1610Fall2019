@@ -8,6 +8,7 @@ public class PlayerDataC : GameArtData
     public List<WeaponData> weapons;
 
     public UnityAction<GameObject> instanceAction;
+    public UnityEvent onRunEvent;
 
     public FloatValue health;
     public ClothesData shirt;
@@ -23,5 +24,10 @@ public class PlayerDataC : GameArtData
         newSprite.color = color;
         //instanceAction(newPlayer);
         
+    }
+
+    public void Run()
+    {
+        onRunEvent.Invoke();
     }
 }
