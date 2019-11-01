@@ -31,6 +31,6 @@ public class AgentHandler : MonoBehaviour
 
 	void Update ()
 	{
-		agent.destination = destinationObj.position;
+		agent.destination = currentDestination.position;
 	}
 }

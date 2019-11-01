@@ -36,6 +36,7 @@
           <e p="Debugger.cs" t="Include" />
           <e p="DebuggerHandler.cs" t="Include" />
           <e p="DogClass.cs" t="Include" />
+          <e p="EnumPowerUp.cs" t="Include" />
           <e p="EnumSwitch.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
