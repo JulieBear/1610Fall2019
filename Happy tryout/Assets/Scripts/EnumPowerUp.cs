@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
+using UnityEngine.Events;
 
 public class EnumPowerUp : MonoBehaviour 
 {
@@ -10,16 +12,19 @@ public class EnumPowerUp : MonoBehaviour
 	}
 
 	public States currState;
-	
-	
-	
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
+
+	public UnityEvent normalPace, powerPace;
+void Update ()
+	{
+		switch (currState)
+		{
+			case States.Sprint:
+				break;
+			case States.Walk:
+				break;
+			default:
+				throw new ArgumentOutOfRangeException();
+		}
 		
 	}
 }

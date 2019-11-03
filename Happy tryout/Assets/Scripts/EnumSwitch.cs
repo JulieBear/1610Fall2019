@@ -13,14 +13,14 @@ public class EnumSwitch : MonoBehaviour
 
 	public States currentState;
 
-	public UnityEvent OnstartEvent, OnPlayingEvent, OnEndEvent;
+	public UnityEvent OnStartEvent, OnPlayingEvent, OnEndEvent;
 
 	void Update () 
 	{
 		switch (currentState)
 		{
 			case States.Start:
-				OnstartEvent.Invoke();
+				OnStartEvent.Invoke();
 				break;
 			case States.Playing:
 				OnPlayingEvent.Invoke();

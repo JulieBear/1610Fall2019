@@ -10,8 +10,9 @@ public class MovementThree : MonoBehaviour
 	public int jumpCountMax = 2;
 	private Vector3 pose;
 	private int jumpCount;
+	public static double doSpeedUp;
 
-	
+
 	void Start ()
 	{
 		control = GetComponent<CharacterController>();
@@ -38,5 +39,10 @@ public class MovementThree : MonoBehaviour
 		
 
 	control.Move(pose * Time.deltaTime);
+	}
+
+	public static void StopSpeedUp()
+	{
+		throw new System.NotImplementedException();
 	}
 }
