@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.EventSystems;
 
 [CreateAssetMenu]
 public class Debugger : ScriptableObject
@@ -12,4 +13,5 @@ public class Debugger : ScriptableObject
 	{
 		Debug.Log(name);
 	}
+	
 }

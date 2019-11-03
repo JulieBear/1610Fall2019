@@ -33,3 +33,4 @@ public class Speedup : MonoBehaviour
 	private float move = Input.GetAxis("Horizontal") * doSpeedup;
 	private static float doSpeedup;
 }
+

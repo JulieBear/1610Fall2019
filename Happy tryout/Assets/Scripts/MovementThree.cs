@@ -22,7 +22,7 @@ public class MovementThree : MonoBehaviour
 	void Update()
 	{
 		pose.x = moveSpeed * Input.GetAxis("Horizontal");
-		pose.z = moveSpeed * Input.GetAxis("Vertical");
+		//pose.z = moveSpeed * Input.GetAxis("Vertical");
 		pose.y -= gravity;
 
 		if (control.isGrounded)
