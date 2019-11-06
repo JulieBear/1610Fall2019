@@ -31,6 +31,7 @@
             <e p="IntDataOb.cs" t="Include" />
             <e p="PlayerDataC.cs" t="Include" />
             <e p="PowersData.cs" t="Include" />
+            <e p="Vector3Data.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />
@@ -45,6 +46,7 @@
           <e p="IfState.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
+          <e p="MouseEvents1.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="MovementThree.cs" t="Include" />
           <e p="MovementTwo.cs" t="Include" />

@@ -198,6 +198,7 @@
 'Assets/Scripts/Data/IntDataOb.cs'
 'Assets/Scripts/Data/PlayerDataC.cs'
 'Assets/Scripts/Data/PowersData.cs'
+'Assets/Scripts/Data/Vector3Data.cs'
 'Assets/Scripts/Data/WeaponData.cs'
 'Assets/Scripts/Debugger.cs'
 'Assets/Scripts/DebuggerHandler.cs'
