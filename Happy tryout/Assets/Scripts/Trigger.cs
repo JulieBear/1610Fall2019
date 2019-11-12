@@ -15,7 +15,7 @@ public class Trigger : MonoBehaviour
 	public UnityEvent EvTest;
 	
 	
-	private void OnTriggerEnter(Collider other)
+	private void OnTriggerStay(Collider other)
 	{
 		print("testing");
 		EvTest.Invoke();
