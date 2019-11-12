@@ -23,6 +23,7 @@
             <e p="GameArtCollection.cs" t="Include" />
             <e p="Lists.cs" t="Include" />
           </e>
+          <e p="Coroutines.cs" t="Include" />
           <e p="Cylinder.cs" t="Include" />
           <e p="Data" t="Include">
             <e p="ClothesData.cs" t="Include" />
