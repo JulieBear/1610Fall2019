@@ -11,10 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69a73424f9aa34325b01335515c88e07, type: 3}
   m_Name: GreenCircle
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 4e992996b3ace4dfd80e61e7751c0dd7, type: 3}
+  sprite: {fileID: 21300000, guid: 0b0201f07a1ac4a9c9d519b8bcb774c4, type: 3}
   color: {r: 0.64119726, g: 0.8679245, b: 0.55268776, a: 1}
-  prefab: {fileID: 1810891024831204, guid: 2b1509f7541aa4f6ea235e5ef52b780d, type: 2}
+  prefab: {fileID: 1201468506477790, guid: c80fd4725d7494c249512725b268a273, type: 2}
   weapons: []
+  onRunEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   health: {fileID: 0}
   shirt: {fileID: 0}
   pants: {fileID: 0}

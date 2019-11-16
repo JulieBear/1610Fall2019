@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69a73424f9aa34325b01335515c88e07, type: 3}
   m_Name: RedDiamond
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 0b0201f07a1ac4a9c9d519b8bcb774c4, type: 3}
+  sprite: {fileID: 21300000, guid: ef09dd6431c3b47c69737005524b595d, type: 3}
   color: {r: 0.6792453, g: 0.05446779, b: 0.05446779, a: 1}
-  prefab: {fileID: 1122895187404694, guid: 0ef56271ab62c401897f8fb6730d5fbc, type: 2}
+  prefab: {fileID: 1897515408788584, guid: 454523dd631834af4afefc6df391fae2, type: 2}
   weapons:
   - {fileID: 11400000, guid: 869d5c4639acb496d9ca378104527372, type: 2}
   onRunEvent:
