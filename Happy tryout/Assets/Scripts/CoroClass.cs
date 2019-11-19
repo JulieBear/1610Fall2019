@@ -13,17 +13,17 @@ public class CoroClass : MonoBehaviour
 
 	private WaitForSeconds wfsObj2;
 		//public ParticleSystem partPart;
-	
-		
-	IEnumerator OnMouseDown()
-	{
+
+
+		IEnumerator OnTriggerEnter(Collider other)
+		{
 		while (index > 0)
 		{
 			Debug.Log(index);
 			index--;
 			yield return new WaitForSeconds(1f);
 			//partPart.Emit(20);
-			//test.Invoke();
+			test.Invoke();
 		}
 	}
 	

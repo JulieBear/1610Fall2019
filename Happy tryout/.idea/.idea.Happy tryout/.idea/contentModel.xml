@@ -43,7 +43,6 @@
           <e p="EnumPowerUp.cs" t="Include" />
           <e p="EnumSwitch.cs" t="Include" />
           <e p="FallOver.cs" t="Include" />
-          <e p="Flappy.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
