@@ -47,6 +47,9 @@
           <e p="EnumSwitch.cs" t="Include" />
           <e p="FallOver.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="GameActionHandler.cs" t="Include" />
+          <e p="GameStates.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
           <e p="IfState.cs" t="Include" />
@@ -64,6 +67,7 @@
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>
+        <e p="StatesBehaviour.cs" t="Include" />
         <e p="Test.cs" t="Include" />
       </e>
       <e p="Happy tryout.sln" t="IncludeFlat" />
