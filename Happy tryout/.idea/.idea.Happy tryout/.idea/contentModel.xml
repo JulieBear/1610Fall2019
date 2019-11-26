@@ -65,6 +65,7 @@
           <e p="TagTest.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="TryingThings.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextController.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
