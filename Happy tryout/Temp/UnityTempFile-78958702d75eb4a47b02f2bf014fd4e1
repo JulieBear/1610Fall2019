@@ -211,6 +211,7 @@
 'Assets/Scripts/EnumPowerUp.cs'
 'Assets/Scripts/EnumSwitch.cs'
 'Assets/Scripts/FallOver.cs'
+'Assets/Scripts/Flip.cs'
 'Assets/Scripts/Functions.cs'
 'Assets/Scripts/GameAction.cs'
 'Assets/Scripts/GameActionHandler.cs'
