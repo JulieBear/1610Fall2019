@@ -9,7 +9,8 @@ public class TryingThings : MonoBehaviour
     public bool running = true;
     public int dex = 3;
     public UnityEvent damage;
-    public UnityEvent stop;
+    public UnityEvent quit;
+    public int stop = 1;
     public float time = 3f;
     private WaitForSeconds secsObj;
 
@@ -25,17 +26,24 @@ public class TryingThings : MonoBehaviour
 
     IEnumerator OnTriggerStay(Collider other)
     {
-        while(dex > 0)
+        while (dex > 0)
         {
             yield return new WaitForSeconds(3f);
             damage.Invoke();
             dex--;
         }
-        
+
     }
 
-    private void OnTriggerExit(Collider other)
+
+    IEnumerator OnTriggerExit(Collider other)
     {
-        stop.Invoke();
+        while (stop > 0)
+        {
+            yield return new WaitForSeconds(1f);
+            quit.Invoke();
+            stop--;
+        }
     }
 }
+    
