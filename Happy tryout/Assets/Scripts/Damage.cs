@@ -7,7 +7,7 @@ public class Damage : MonoBehaviour
 {
 	public UnityEvent damage;
 	
-	public void OnTriggerStay(Collider other)
+	public void OnTriggerEnter(Collider other)
 	{
 		damage.Invoke();
 	}

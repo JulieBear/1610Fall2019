@@ -13,5 +13,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sprite: {fileID: 0}
   color: {r: 0, g: 0, b: 0, a: 0}
-  prefab: {fileID: 0}
+  prefab: {fileID: 1586918107535178, guid: 8809e6ea57a5b43c1a02eca1cf61dfdc, type: 2}
   weaponPower: 10

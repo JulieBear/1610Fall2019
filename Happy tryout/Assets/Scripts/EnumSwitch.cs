@@ -6,27 +6,24 @@ public class EnumSwitch : MonoBehaviour
 {
 	public enum States
 	{
-		Start,
-		Playing,
-		End
+		Short,
+		Tall,
 	}
 
 	public States currentState;
 
-	public UnityEvent OnStartEvent, OnPlayingEvent, OnEndEvent;
+	public UnityEvent Ontriggerstay, Ontriggerexit;
 
 	void Update () 
 	{
 		switch (currentState)
 		{
-			case States.Start:
-				OnStartEvent.Invoke();
+			case States.Short:
+				Ontriggerstay.Invoke();
+				Debug.Log("test");
 				break;
-			case States.Playing:
-				OnPlayingEvent.Invoke();
-				break;
-			case States.End:
-				OnEndEvent.Invoke();
+			case States.Tall:
+				Ontriggerexit.Invoke();
 				break;
 			default:
 				throw new ArgumentOutOfRangeException();

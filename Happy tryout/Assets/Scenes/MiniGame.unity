@@ -3360,7 +3360,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1349761868}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 144.7, y: 4.6599994, z: -67.58}
+  m_LocalPosition: {x: -9.600001, y: 4.6599994, z: -67.58}
   m_LocalScale: {x: 1.7992821, y: 6.0497613, z: 1.7992816}
   m_Children:
   - {fileID: 1489837716}
@@ -4224,7 +4224,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4047424341092572, guid: c80fd4725d7494c249512725b268a273, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 144.7
+      value: -9.6
       objectReference: {fileID: 0}
     - target: {fileID: 4047424341092572, guid: c80fd4725d7494c249512725b268a273, type: 2}
       propertyPath: m_LocalPosition.y
@@ -9544,6 +9544,7 @@ GameObject:
   - component: {fileID: 1912824235}
   - component: {fileID: 1912824231}
   - component: {fileID: 1912824238}
+  - component: {fileID: 1912824237}
   m_Layer: 0
   m_Name: AI1
   m_TagString: Untagged
@@ -9561,7 +9562,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 11, y: 1.2, z: 1}
+  m_Size: {x: 3, y: 1.2, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1912824232
 MeshRenderer:
@@ -9651,13 +9652,51 @@ NavMeshAgent:
   m_BaseOffset: 0.5
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
---- !u!114 &1912824238
+--- !u!114 &1912824237
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1912824230}
   m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509d960cc89ec4f8186fbfc79cf88ca8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: dc1c800a355134088a7ef633c17414ba, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: -0.01
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 756115319}
+        m_MethodName: UpdateImage
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: FloatValue, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &1912824238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1912824230}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e3ed57b2bbbf84b139a114597f9ba6db, type: 3}
   m_Name: 
@@ -9706,7 +9745,7 @@ MonoBehaviour:
   quit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 11400000, guid: dc1c800a355134088a7ef633c17414ba, type: 2}
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
