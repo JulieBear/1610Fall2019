@@ -64,6 +64,8 @@ library/
 packages/
 UnityTempFile/
 TempFile/
+Temp/
+Logs/
 
 Happy tryout/Temp/UnityTempFile-01cc3bb8af5b743dea9995a70440a09d
 
