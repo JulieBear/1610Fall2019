@@ -2,9 +2,17 @@
 
 public class NewClass : MonoBehaviour
 {
+	public string nameString;
+	public int intNum;
+	public float floatNumb;
+	public GameObject gameObj;
+	
 	void Start () 
 	{
-		print("This is something that is awesome");
+		print(nameString);
+		print(intNum);
+		print(floatNumb);
+		print(gameObj);
 	}
 	
 	void Update () 
