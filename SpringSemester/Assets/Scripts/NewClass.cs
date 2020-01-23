@@ -3,7 +3,7 @@
 public class NewClass : MonoBehaviour
 {
 	public string nameString;
-	public int intNum;
+	public int intNum = 3;
 	public float floatNumb;
 	public GameObject gameObj;
 	
