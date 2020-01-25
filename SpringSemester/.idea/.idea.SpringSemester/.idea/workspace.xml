@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,6 +25,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Control.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +79,7 @@
       <workItem from="1579108111517" duration="1938000" />
       <workItem from="1579661669188" duration="1515000" />
       <workItem from="1579715227658" duration="1458000" />
+      <workItem from="1579932316188" duration="269000" />
     </task>
     <servers />
   </component>
