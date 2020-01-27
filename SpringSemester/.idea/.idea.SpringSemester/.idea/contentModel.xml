@@ -9,6 +9,7 @@
           <e p="Control.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
+          <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="UnityInClass.cs" t="Include" />

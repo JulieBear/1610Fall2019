@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,6 +29,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +83,8 @@
       <workItem from="1579108111517" duration="1938000" />
       <workItem from="1579661669188" duration="1515000" />
       <workItem from="1579715227658" duration="1458000" />
-      <workItem from="1579932316188" duration="868000" />
+      <workItem from="1579932316188" duration="919000" />
+      <workItem from="1580105119554" duration="555000" />
     </task>
     <servers />
   </component>

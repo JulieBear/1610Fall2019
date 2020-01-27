@@ -1,7 +1,8 @@
 ﻿using System;
 using UnityEngine;
 
-public class FloatData : MonoBehaviour
+[CreateAssetMenu]
+public class FloatData : ScriptableObject
 {
 
 	public float minVal = 0;
