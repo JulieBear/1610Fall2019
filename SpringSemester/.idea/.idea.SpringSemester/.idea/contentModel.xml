@@ -7,6 +7,7 @@
         <e p="Scripts" t="Include">
           <e p="AmmoDisa.cs" t="Include" />
           <e p="Control.cs" t="Include" />
+          <e p="DebuggerRe.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
