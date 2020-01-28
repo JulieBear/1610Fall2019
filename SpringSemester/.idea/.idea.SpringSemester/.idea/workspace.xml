@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,6 +33,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +89,7 @@
       <workItem from="1579715227658" duration="1458000" />
       <workItem from="1579932316188" duration="919000" />
       <workItem from="1580105119554" duration="772000" />
+      <workItem from="1580193408079" duration="493000" />
     </task>
     <servers />
   </component>
