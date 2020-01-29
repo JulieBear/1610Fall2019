@@ -17,6 +17,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,6 +36,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" />
       </list>
     </option>
   </component>
@@ -89,7 +93,8 @@
       <workItem from="1579715227658" duration="1458000" />
       <workItem from="1579932316188" duration="919000" />
       <workItem from="1580105119554" duration="772000" />
-      <workItem from="1580193408079" duration="493000" />
+      <workItem from="1580193408079" duration="568000" />
+      <workItem from="1580279080179" duration="417000" />
     </task>
     <servers />
   </component>
