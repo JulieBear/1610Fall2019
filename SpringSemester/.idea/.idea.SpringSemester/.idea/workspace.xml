@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Starting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" />
       </list>
     </option>
   </component>
@@ -102,6 +104,7 @@
       <workItem from="1580193408079" duration="568000" />
       <workItem from="1580279080179" duration="1068000" />
       <workItem from="1580317644830" duration="2539000" />
+      <workItem from="1580614197826" duration="751000" />
     </task>
     <servers />
   </component>
