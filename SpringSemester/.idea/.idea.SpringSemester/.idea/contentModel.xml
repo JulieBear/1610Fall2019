@@ -12,10 +12,12 @@
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameStuffData.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
+          <e p="PlayerDataRe.cs" t="Include" />
           <e p="Starting.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
           <e p="UITextCon.cs" t="Include" />
