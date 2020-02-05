@@ -14,7 +14,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EquipData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,8 +29,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStuffData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HeadgearData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,6 +54,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameStuffData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EquipData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HeadgearData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" />
       </list>
     </option>
@@ -81,10 +90,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="5818">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="5818" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -109,7 +118,9 @@
       <workItem from="1580279080179" duration="1068000" />
       <workItem from="1580317644830" duration="2539000" />
       <workItem from="1580614197826" duration="1280000" />
-      <workItem from="1580712427894" duration="567000" />
+      <workItem from="1580712427894" duration="969000" />
+      <workItem from="1580883330203" duration="134000" />
+      <workItem from="1580883490973" duration="520000" />
     </task>
     <servers />
   </component>
