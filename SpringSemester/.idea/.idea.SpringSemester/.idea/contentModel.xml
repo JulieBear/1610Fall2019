@@ -6,28 +6,31 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AmmoDisa.cs" t="Include" />
-          <e p="ArtData.cs" t="Include" />
+          <e p="CharacterMover.cs" t="Include" />
           <e p="Control.cs" t="Include" />
           <e p="CoroRe.cs" t="Include" />
+          <e p="Data" t="Include">
+            <e p="ArtData.cs" t="Include" />
+            <e p="EquipData.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="GameStuffData.cs" t="Include" />
+            <e p="HeadgearData.cs" t="Include" />
+            <e p="PlayerDataRe.cs" t="Include" />
+            <e p="PowerData.cs" t="Include" />
+            <e p="WeaponData.cs" t="Include" />
+          </e>
           <e p="DebuggerRe.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
-          <e p="EquipData.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
-          <e p="GameStuffData.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
-          <e p="HeadgearData.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
-          <e p="PlayerDataRe.cs" t="Include" />
-          <e p="PowerData.cs" t="Include" />
           <e p="Starting.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
           <e p="UITextCon.cs" t="Include" />
           <e p="UnityInClass.cs" t="Include" />
           <e p="VectorThreeD.cs" t="Include" />
-          <e p="WeaponData.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
