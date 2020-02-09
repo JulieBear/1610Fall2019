@@ -14,7 +14,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CineMac.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,6 +54,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CineMac.cs" />
       </list>
     </option>
   </component>
@@ -115,7 +117,9 @@
       <workItem from="1580712427894" duration="969000" />
       <workItem from="1580883330203" duration="134000" />
       <workItem from="1580883490973" duration="651000" />
-      <workItem from="1580923164945" duration="2957000" />
+      <workItem from="1580923164945" duration="3067000" />
+      <workItem from="1580927167866" duration="120000" />
+      <workItem from="1581220724828" duration="478000" />
     </task>
     <servers />
   </component>
@@ -147,6 +151,19 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Control.cs</url>
+          <line>24</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Control.cs" initialLine="24">
+            <startOffsets>
+              <option value="468" />
+            </startOffsets>
+            <endOffsets>
+              <option value="469" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

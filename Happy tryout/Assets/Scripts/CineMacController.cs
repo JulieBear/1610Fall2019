@@ -18,6 +18,4 @@ public class CineMacController : MonoBehaviour
 	{
 		virtualCamera.Follow = obj.transform;
 	}
-	
-	
 }
