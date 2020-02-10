@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
@@ -21,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -35,7 +37,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Gravity.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Control.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" />
@@ -59,6 +60,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CineMac.cs" />
         <option value="$PROJECT_DIR$/Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Control.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" />
       </list>
     </option>
   </component>
@@ -124,6 +128,7 @@
       <workItem from="1580923164945" duration="3067000" />
       <workItem from="1580927167866" duration="120000" />
       <workItem from="1581220724828" duration="1147000" />
+      <workItem from="1581354954192" duration="3008000" />
     </task>
     <servers />
   </component>
@@ -160,10 +165,10 @@
           <line>24</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Scripts/Control.cs" initialLine="24">
             <startOffsets>
-              <option value="468" />
+              <option value="472" />
             </startOffsets>
             <endOffsets>
-              <option value="469" />
+              <option value="473" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />

@@ -12,7 +12,7 @@ public class Control : MonoBehaviour
 	public int jumpMax = 2;
 	public static double spedUp;
 	private Vector3 posit;
-	private int jumpCou;
+	private int jumpCou = 0;
 	
 	
 	void Start ()
