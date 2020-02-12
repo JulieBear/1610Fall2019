@@ -7,6 +7,7 @@
         <e p="Scripts" t="Include">
           <e p="AIHandler.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
           <e p="Control.cs" t="Include" />
@@ -27,12 +28,14 @@
           <e p="FlippingRe.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="Ifstate.cs" t="Include" />
+          <e p="Light.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="PlayerHand.cs" t="Include" />
           <e p="PlayerHandMem.cs" t="Include" />
           <e p="RigidBodyForce.cs" t="Include" />
+          <e p="SpriteController.cs" t="Include" />
           <e p="Starting.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
           <e p="UITextCon.cs" t="Include" />
