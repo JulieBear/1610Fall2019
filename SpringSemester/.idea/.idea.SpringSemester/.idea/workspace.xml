@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -29,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CineMac.cs" root0="FORCE_HIGHLIGHTING" />
@@ -63,6 +65,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Control.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Destroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIHandler.cs" />
       </list>
     </option>
   </component>
@@ -128,7 +132,8 @@
       <workItem from="1580923164945" duration="3067000" />
       <workItem from="1580927167866" duration="120000" />
       <workItem from="1581220724828" duration="1147000" />
-      <workItem from="1581354954192" duration="3008000" />
+      <workItem from="1581354954192" duration="3097000" />
+      <workItem from="1581487678831" duration="494000" />
     </task>
     <servers />
   </component>

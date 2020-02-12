@@ -18,6 +18,7 @@
           <e p="AIScripts" t="Include">
             <e p="AgentHandler.cs" t="Include" />
             <e p="AgentHandler2.cs" t="Include" />
+            <e p="AIHandler.cs" t="Include" />
           </e>
           <e p="ApplyForce.cs" t="Include" />
           <e p="CineMacController.cs" t="Include" />
