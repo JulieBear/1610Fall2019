@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,6 +78,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Light.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" />
       </list>
     </option>
   </component>
@@ -146,7 +148,7 @@
       <workItem from="1581487678831" duration="747000" />
       <workItem from="1581528243278" duration="746000" />
       <workItem from="1581529016555" duration="3373000" />
-      <workItem from="1581654254415" duration="970000" />
+      <workItem from="1581654254415" duration="1534000" />
     </task>
     <servers />
   </component>
