@@ -9,7 +9,7 @@ public class Light : MonoBehaviour
 	void Start ()
 	{
 		lightObj = GetComponent<Light>();
-	//	lightObj.intensity = 0f;
+		//lightObj.intensity = 0f;
 	}
 	
 	

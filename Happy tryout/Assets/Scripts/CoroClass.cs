@@ -12,7 +12,7 @@ public class CoroClass : MonoBehaviour
 	public UnityEvent test;
 
 	private WaitForSeconds wfsObj2;
-		//public ParticleSystem partPart;
+		public ParticleSystem partPart;
 
 
 		IEnumerator OnTriggerEnter(Collider other)
@@ -22,7 +22,7 @@ public class CoroClass : MonoBehaviour
 			Debug.Log(index);
 			index--;
 			yield return new WaitForSeconds(1f);
-			//partPart.Emit(20);
+			partPart.Emit(20);
 			test.Invoke();
 		}
 	}

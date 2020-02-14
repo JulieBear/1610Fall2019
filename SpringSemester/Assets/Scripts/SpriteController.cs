@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(SpriteRenderer))]
 public class SpriteController : MonoBehaviour
@@ -13,6 +14,7 @@ public class SpriteController : MonoBehaviour
 		conSprite = GetComponent<SpriteRenderer>();
 		conSprite.color = spriteColor;
 	}
+	
 
 	private void OnEnable()
 	{
