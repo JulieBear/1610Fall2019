@@ -148,7 +148,7 @@
       <workItem from="1581487678831" duration="747000" />
       <workItem from="1581528243278" duration="746000" />
       <workItem from="1581529016555" duration="3373000" />
-      <workItem from="1581654254415" duration="1534000" />
+      <workItem from="1581654254415" duration="1803000" />
     </task>
     <servers />
   </component>
@@ -192,6 +192,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs</url>
+          <line>8</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" initialLine="8">
+            <startOffsets>
+              <option value="195" />
+            </startOffsets>
+            <endOffsets>
+              <option value="196" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
