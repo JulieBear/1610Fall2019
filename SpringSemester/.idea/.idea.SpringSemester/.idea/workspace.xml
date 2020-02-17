@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,6 +80,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" />
       </list>
     </option>
   </component>
@@ -149,6 +151,7 @@
       <workItem from="1581528243278" duration="746000" />
       <workItem from="1581529016555" duration="3373000" />
       <workItem from="1581654254415" duration="1803000" />
+      <workItem from="1581917786898" duration="508000" />
     </task>
     <servers />
   </component>
