@@ -10,11 +10,13 @@
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
+          <e p="CliSetPose.cs" t="Include" />
           <e p="Control.cs" t="Include" />
           <e p="CoroDestroyTwo.cs" t="Include" />
           <e p="CoroDestruction.cs" t="Include" />
           <e p="CoroPA.cs" t="Include" />
           <e p="CoroPB.cs" t="Include" />
+          <e p="CoroPCU.cs" t="Include" />
           <e p="CoroRe.cs" t="Include" />
           <e p="Data" t="Include">
             <e p="ArtData.cs" t="Include" />
