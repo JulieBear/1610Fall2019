@@ -32,8 +32,11 @@
           <e p="Destroy.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
+          <e p="FloatDataA.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="Ifstate.cs" t="Include" />
+          <e p="imageBehaviour.cs" t="Include" />
+          <e p="IntDataObj.cs" t="Include" />
           <e p="Light.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
