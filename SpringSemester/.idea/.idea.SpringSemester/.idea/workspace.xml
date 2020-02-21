@@ -53,6 +53,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClockData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CineMac.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -105,6 +106,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClockData.cs" />
       </list>
     </option>
   </component>
@@ -178,7 +180,7 @@
       <workItem from="1581917786898" duration="2477000" />
       <workItem from="1582001991099" duration="1431000" />
       <workItem from="1582132546450" duration="2716000" />
-      <workItem from="1582263468271" duration="913000" />
+      <workItem from="1582263468271" duration="1153000" />
     </task>
     <servers />
   </component>

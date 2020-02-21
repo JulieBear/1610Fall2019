@@ -13,6 +13,7 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
           <e p="CliSetPose.cs" t="Include" />
+          <e p="ClockData.cs" t="Include" />
           <e p="Control.cs" t="Include" />
           <e p="CoroDestroyTwo.cs" t="Include" />
           <e p="CoroDestruction.cs" t="Include" />
