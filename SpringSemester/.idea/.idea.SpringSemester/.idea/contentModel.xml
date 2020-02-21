@@ -7,6 +7,8 @@
         <e p="Scripts" t="Include">
           <e p="AIHandler.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
+          <e p="ArtCollect.cs" t="Include" />
+          <e p="ArtGameData.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
@@ -38,6 +40,7 @@
           <e p="imageBehaviour.cs" t="Include" />
           <e p="IntDataObj.cs" t="Include" />
           <e p="Light.cs" t="Include" />
+          <e p="Lists.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />

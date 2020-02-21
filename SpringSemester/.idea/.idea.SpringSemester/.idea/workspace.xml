@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHandMem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -41,10 +43,12 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C421EDCA-F2C0-468C-9E23-6F7BFD210936/a1/9bc5fc81/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -72,7 +76,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EquipData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HeadgearData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CineMac.cs" />
@@ -97,6 +100,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" />
       </list>
     </option>
   </component>
@@ -169,7 +177,8 @@
       <workItem from="1581654254415" duration="1803000" />
       <workItem from="1581917786898" duration="2477000" />
       <workItem from="1582001991099" duration="1431000" />
-      <workItem from="1582132546450" duration="2209000" />
+      <workItem from="1582132546450" duration="2716000" />
+      <workItem from="1582263468271" duration="913000" />
     </task>
     <servers />
   </component>

@@ -1,16 +1,10 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class WeaponData : MonoBehaviour {
+[CreateAssetMenu]
+public class WeaponData : ArtGameData
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	public int weaponDamage = 10;
+	public string weaponType;
+
 }
