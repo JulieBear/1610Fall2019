@@ -186,7 +186,7 @@
       <workItem from="1582132546450" duration="2716000" />
       <workItem from="1582263468271" duration="1247000" />
       <workItem from="1582345459930" duration="777000" />
-      <workItem from="1582524311083" duration="2367000" />
+      <workItem from="1582524311083" duration="2514000" />
     </task>
     <servers />
   </component>
@@ -247,6 +247,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" initialLine="42">
+            <startOffsets>
+              <option value="664" />
+            </startOffsets>
+            <endOffsets>
+              <option value="665" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
