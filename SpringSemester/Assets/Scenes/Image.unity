@@ -193,8 +193,8 @@ GameObject:
   - component: {fileID: 507849501}
   - component: {fileID: 507849500}
   - component: {fileID: 507849499}
-  - component: {fileID: 507849504}
   - component: {fileID: 507849505}
+  - component: {fileID: 507849504}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -294,7 +294,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 507849498}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0ab1b79cef65240e0aaa7508e5e4cb4a, type: 3}
+  m_Script: {fileID: 11500000, guid: 14c9c20a2b7a64df291133185042b3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   index: 5
@@ -314,24 +314,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  onTriggerExit:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2078037729}
-        m_MethodName: Pause
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  secs: 1
-  getGoing: 0
+  seconds: 1
 --- !u!114 &507849505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -754,7 +737,7 @@ GameObject:
   - component: {fileID: 1616177721}
   m_Layer: 0
   m_Name: Killer
-  m_TagString: Untagged
+  m_TagString: PickUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
