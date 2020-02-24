@@ -1,19 +1,22 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
 public class imageBehaviour : MonoBehaviour
 {
 
-	private Image img;
+	public Image img;
+	public FloatValue dataObj;
 
-	private void Awake()
+
+	private void Start()
 	{
 		img = GetComponent<Image>();
 	}
 
-	public void UpdateImage(FloatData data)
+	private void Update()
 	{
-		//img.fillAmount = data.data;
+		img.fillAmount = dataObj.value;
 	}
 }

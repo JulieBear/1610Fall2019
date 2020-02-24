@@ -27,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FloatValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -34,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIimageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
@@ -45,6 +47,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/CorounDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -61,17 +64,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Gravity.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VectorThreeD.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Starting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" />
@@ -99,8 +97,6 @@
         <option value="$PROJECT_DIR$/Assets/SelfDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
@@ -111,6 +107,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Destroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" />
         <option value="$PROJECT_DIR$/Assets/CorounDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIimageControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/FloatValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -187,6 +191,8 @@
       <workItem from="1582263468271" duration="1247000" />
       <workItem from="1582345459930" duration="777000" />
       <workItem from="1582524311083" duration="2514000" />
+      <workItem from="1582564874291" duration="1272000" />
+      <workItem from="1582566267783" duration="2052000" />
     </task>
     <servers />
   </component>

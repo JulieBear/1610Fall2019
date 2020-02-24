@@ -5,6 +5,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="CorounDestroy.cs" t="Include" />
+        <e p="FloatValue.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AIHandler.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
@@ -52,12 +53,14 @@
           <e p="RigidBodyForce.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
           <e p="Starting.cs" t="Include" />
+          <e p="TextBehaviour.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
           <e p="UITextCon.cs" t="Include" />
           <e p="UnityInClass.cs" t="Include" />
           <e p="VectorThreeD.cs" t="Include" />
         </e>
         <e p="SelfDestroy.cs" t="Include" />
+        <e p="UIimageControl.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
