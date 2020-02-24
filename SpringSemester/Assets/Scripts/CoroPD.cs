@@ -35,4 +35,18 @@ public class CoroPD : MonoBehaviour
 			onTriggerEnter.Invoke();
 		}
 	}
+
+	IEnumerator OnTriggerExit(Collider other)
+	{
+		onTriggerExit.Invoke();
+		
+		while (index > 0)
+		{
+			Debug.Log(index);
+			index--;
+			yield return new WaitForSeconds(1f);
+			onTriggerExit.Invoke();
+		}
+		
+	}
 }
