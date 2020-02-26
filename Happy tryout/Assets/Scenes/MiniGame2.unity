@@ -6704,6 +6704,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &387169884
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7730,6 +7731,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &565669500
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -8548,6 +8550,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &712736977
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -24441,6 +24444,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1057679220
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -24773,6 +24777,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1085472456
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -25436,6 +25441,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1152690816
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -31754,6 +31760,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1508530972
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -31888,6 +31895,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1514790590
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -37337,6 +37345,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &1640166034
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -58148,6 +58157,7 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  partPart: {fileID: 0}
 --- !u!135 &2142788144
 SphereCollider:
   m_ObjectHideFlags: 0
