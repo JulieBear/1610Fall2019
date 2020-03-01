@@ -114,8 +114,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Entrance.cs" />
         <option value="$PROJECT_DIR$/Assets/CorounDestroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -195,7 +195,7 @@
       <workItem from="1582564874291" duration="1272000" />
       <workItem from="1582566267783" duration="2052000" />
       <workItem from="1582737001905" duration="1740000" />
-      <workItem from="1583037334762" duration="762000" />
+      <workItem from="1583037334762" duration="1571000" />
     </task>
     <servers />
   </component>
