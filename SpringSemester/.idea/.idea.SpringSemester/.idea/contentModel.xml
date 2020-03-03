@@ -11,6 +11,7 @@
           <e p="AmmoDisa.cs" t="Include" />
           <e p="ArtCollect.cs" t="Include" />
           <e p="ArtGameData.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
@@ -36,6 +37,7 @@
           </e>
           <e p="DebuggerRe.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
+          <e p="EnemyScr.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
           <e p="FloatDataA.cs" t="Include" />
@@ -63,6 +65,7 @@
         </e>
         <e p="SelfDestroy.cs" t="Include" />
         <e p="UIimageControl.cs" t="Include" />
+        <e p="Weapon.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
