@@ -48,6 +48,7 @@
           <e p="IntDataObj.cs" t="Include" />
           <e p="Light.cs" t="Include" />
           <e p="Lists.cs" t="Include" />
+          <e p="Monobehaviours.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
@@ -63,8 +64,10 @@
           <e p="UITextCon.cs" t="Include" />
           <e p="UnityInClass.cs" t="Include" />
           <e p="VectorThreeD.cs" t="Include" />
+          <e p="VectorThreeData.cs" t="Include" />
         </e>
         <e p="SelfDestroy.cs" t="Include" />
+        <e p="StringData.cs" t="Include" />
         <e p="UIimageControl.cs" t="Include" />
         <e p="Weapon.cs" t="Include" />
       </e>

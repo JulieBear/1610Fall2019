@@ -10,7 +10,7 @@ public class Shooting : MonoBehaviour
 
     private void Awake()
     {
-        firing = transform.FindChild("Firing");
+        firing = transform.Find("Firing");
     }
 
     private void FixedUpdate()
