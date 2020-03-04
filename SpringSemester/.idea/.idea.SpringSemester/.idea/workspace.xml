@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIimageControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CorounDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Starting.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameStuffData.cs" />
@@ -120,6 +120,7 @@
         <option value="$PROJECT_DIR$/Assets/Weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScr.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" />
       </list>
     </option>
   </component>
@@ -201,7 +202,8 @@
       <workItem from="1582737001905" duration="1740000" />
       <workItem from="1583037334762" duration="2003000" />
       <workItem from="1583129802088" duration="886000" />
-      <workItem from="1583214989837" duration="1719000" />
+      <workItem from="1583214989837" duration="1857000" />
+      <workItem from="1583303135345" duration="1171000" />
     </task>
     <servers />
   </component>

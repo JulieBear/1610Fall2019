@@ -18,6 +18,7 @@
           <e p="CliSetPose.cs" t="Include" />
           <e p="ClockData.cs" t="Include" />
           <e p="Control.cs" t="Include" />
+          <e p="CoroAge.cs" t="Include" />
           <e p="CoroDestroyTwo.cs" t="Include" />
           <e p="CoroDestruction.cs" t="Include" />
           <e p="CoroPA.cs" t="Include" />
