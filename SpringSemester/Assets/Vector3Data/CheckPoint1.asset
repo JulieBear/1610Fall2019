@@ -9,6 +9,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a69be576f5ae346d081bfe586ef74738, type: 3}
-  m_Name: CheckPoint
+  m_Name: CheckPoint1
   m_EditorClassIdentifier: 
   value: {x: 0, y: 0, z: 0}
