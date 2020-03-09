@@ -10,7 +10,6 @@
           <e p="AIHandler.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
           <e p="ArtCollect.cs" t="Include" />
-          <e p="ArtGameData.cs" t="Include" />
           <e p="Bullet.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
@@ -26,14 +25,20 @@
           <e p="CoroPCU.cs" t="Include" />
           <e p="CoroPD.cs" t="Include" />
           <e p="CoroRe.cs" t="Include" />
+          <e p="Corostop.cs" t="Include" />
           <e p="Data" t="Include">
             <e p="ArtData.cs" t="Include" />
+            <e p="ArtGameData.cs" t="Include" />
             <e p="EquipData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
+            <e p="FloatDataA.cs" t="Include" />
             <e p="GameStuffData.cs" t="Include" />
             <e p="HeadgearData.cs" t="Include" />
             <e p="PlayerDataRe.cs" t="Include" />
             <e p="PowerData.cs" t="Include" />
+            <e p="StringData.cs" t="Include" />
+            <e p="VectorThreeD.cs" t="Include" />
+            <e p="VectorThreeData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="DebuggerRe.cs" t="Include" />
@@ -41,7 +46,6 @@
           <e p="EnemyScr.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
-          <e p="FloatDataA.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="Ifstate.cs" t="Include" />
           <e p="imageBehaviour.cs" t="Include" />
@@ -63,11 +67,8 @@
           <e p="UIimageCon.cs" t="Include" />
           <e p="UITextCon.cs" t="Include" />
           <e p="UnityInClass.cs" t="Include" />
-          <e p="VectorThreeD.cs" t="Include" />
-          <e p="VectorThreeData.cs" t="Include" />
         </e>
         <e p="SelfDestroy.cs" t="Include" />
-        <e p="StringData.cs" t="Include" />
         <e p="UIimageControl.cs" t="Include" />
         <e p="Weapon.cs" t="Include" />
       </e>

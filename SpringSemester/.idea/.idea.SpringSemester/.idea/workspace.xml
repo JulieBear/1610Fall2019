@@ -60,6 +60,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClockData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -68,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/EquipData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HeadgearData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" />
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/Assets/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VectorThreeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corostop.cs" />
       </list>
     </option>
   </component>
@@ -204,6 +205,7 @@
       <workItem from="1583303135345" duration="1383000" />
       <workItem from="1583342092364" duration="3117000" />
       <workItem from="1583647967157" duration="5000" />
+      <workItem from="1583725651519" duration="4010000" />
     </task>
     <servers />
   </component>
