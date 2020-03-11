@@ -46,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.4.0-preview.9/Runtime/com.unity.cinemachine.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="SKIP_HIGHLIGHTING" />
@@ -62,6 +63,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CinemachineCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClockData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CineMac.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/HeadgearData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
@@ -120,6 +121,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VectorThreeData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corostop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CinemachineCon.cs" />
       </list>
     </option>
   </component>
@@ -205,7 +207,9 @@
       <workItem from="1583303135345" duration="1383000" />
       <workItem from="1583342092364" duration="3117000" />
       <workItem from="1583647967157" duration="5000" />
-      <workItem from="1583725651519" duration="4010000" />
+      <workItem from="1583725651519" duration="4147000" />
+      <workItem from="1583899489037" duration="536000" />
+      <workItem from="1583901002584" duration="669000" />
     </task>
     <servers />
   </component>
