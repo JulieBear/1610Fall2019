@@ -139,6 +139,10 @@
           <e p="CinemachineCon.cs" t="Include" />
           <e p="CliSetPose.cs" t="Include" />
           <e p="ClockData.cs" t="Include" />
+          <e p="Collections" t="Include">
+            <e p="Collable.cs" t="Include" />
+            <e p="CollectionList.cs" t="Include" />
+          </e>
           <e p="Control.cs" t="Include" />
           <e p="CoroAge.cs" t="Include" />
           <e p="CoroDestroyTwo.cs" t="Include" />
@@ -175,6 +179,7 @@
           <e p="IntDataObj.cs" t="Include" />
           <e p="Light.cs" t="Include" />
           <e p="Lists.cs" t="Include" />
+          <e p="ListsLoops.cs" t="Include" />
           <e p="Monobehaviours.cs" t="Include" />
           <e p="MouseEventsRe.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
