@@ -32,12 +32,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CorounDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/Collable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CineMac.cs" />
         <option value="$PROJECT_DIR$/Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" />
@@ -124,6 +124,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CinemachineCon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ListsLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/Collable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" />
       </list>
     </option>
   </component>
@@ -212,7 +214,7 @@
       <workItem from="1583725651519" duration="4147000" />
       <workItem from="1583899489037" duration="536000" />
       <workItem from="1583901002584" duration="669000" />
-      <workItem from="1583990011012" duration="612000" />
+      <workItem from="1583990011012" duration="913000" />
     </task>
     <servers />
   </component>

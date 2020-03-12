@@ -142,6 +142,7 @@
           <e p="Collections" t="Include">
             <e p="Collable.cs" t="Include" />
             <e p="CollectionList.cs" t="Include" />
+            <e p="List.cs" t="Include" />
           </e>
           <e p="Control.cs" t="Include" />
           <e p="CoroAge.cs" t="Include" />

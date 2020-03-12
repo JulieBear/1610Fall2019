@@ -2,16 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[]
-public class Collable : ScriptableObject {
+[CreateAssetMenu]
+public class Collable : ScriptableObject
+{
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	public int pwerLvl = 5;
+	public Color collColor = Color.magenta;
+	public Sprite collSprite;
 }
