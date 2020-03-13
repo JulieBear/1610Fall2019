@@ -11,9 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36278f9c3debc4b73921c15f719c1a99, type: 3}
   m_Name: FirstGun
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 2607768df216f45eabfbb3f495732cbd, type: 3}
   color: {r: 0, g: 0, b: 0, a: 0}
-  prefabulous: {fileID: 0}
+  prefabulous: {fileID: 1182424647438316, guid: 30f79a78f8c324ec8a9cdcc544857198,
+    type: 2}
   timeLife: 3
   weaponDamage: 10
   weaponType: Time Breaker

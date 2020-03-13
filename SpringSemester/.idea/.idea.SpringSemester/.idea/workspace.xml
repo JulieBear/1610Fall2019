@@ -39,6 +39,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/ArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/Collable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
@@ -217,7 +218,7 @@
       <workItem from="1583901002584" duration="669000" />
       <workItem from="1583990011012" duration="913000" />
       <workItem from="1584077019921" duration="11000" />
-      <workItem from="1584077049525" duration="241000" />
+      <workItem from="1584077049525" duration="407000" />
     </task>
     <servers />
   </component>
