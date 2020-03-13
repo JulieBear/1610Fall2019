@@ -66,6 +66,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtColl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CinemachineCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AmmoDisa.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Control.cs" />
@@ -126,6 +126,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/Collable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtColl.cs" />
       </list>
     </option>
   </component>
@@ -215,6 +216,8 @@
       <workItem from="1583899489037" duration="536000" />
       <workItem from="1583901002584" duration="669000" />
       <workItem from="1583990011012" duration="913000" />
+      <workItem from="1584077019921" duration="11000" />
+      <workItem from="1584077049525" duration="241000" />
     </task>
     <servers />
   </component>
