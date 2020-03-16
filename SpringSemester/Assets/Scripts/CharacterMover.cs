@@ -29,7 +29,7 @@ public class CharacterMover : MonoBehaviour
 			jumpCount = 0;
 		}
 
-		if (Input.GetButtonDown("jump") && jumpCount < maxJump)
+		if (Input.GetButtonDown("Jump") && jumpCount < maxJump)
 		{
 			jumpCount++;
 			positi.y = jumpForce;
