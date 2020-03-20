@@ -6,6 +6,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="AgentHandler.cs" t="Include" />
+        <e p="BullFab.cs" t="Include" />
         <e p="Cinemachine" t="Include">
           <e p="Base" t="Include">
             <e p="Editor" t="Include">
@@ -177,6 +178,8 @@
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="GunTwo.cs" t="Include" />
           <e p="Ifstate.cs" t="Include" />
           <e p="imageBehaviour.cs" t="Include" />
           <e p="IntDataObj.cs" t="Include" />
