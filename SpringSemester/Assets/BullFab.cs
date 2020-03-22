@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class BullFab : MonoBehaviour
 {
-	public float speed = 15f;
+	public float speed = 100f;
 	public Rigidbody2D rigidBod;
 	
 	void Start ()

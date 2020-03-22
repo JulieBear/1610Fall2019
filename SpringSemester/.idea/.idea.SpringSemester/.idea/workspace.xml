@@ -131,8 +131,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootingTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/BullFab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
       </list>
     </option>
   </component>
@@ -143,6 +143,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,7 +228,8 @@
       <workItem from="1584332620184" duration="1280000" />
       <workItem from="1584418776498" duration="37000" />
       <workItem from="1584418859159" duration="1819000" />
-      <workItem from="1584678931172" duration="2895000" />
+      <workItem from="1584678931172" duration="2962000" />
+      <workItem from="1584855034203" duration="741000" />
     </task>
     <servers />
   </component>
@@ -255,6 +257,8 @@
   <component name="WindowStateProjectService">
     <state x="0" y="127" key="#Notifications" />
     <state x="0" y="127" key="#Notifications/2880.1800" />
+    <state x="336" y="111" key="SettingsEditor" />
+    <state x="336" y="111" key="SettingsEditor/2880.1800" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
