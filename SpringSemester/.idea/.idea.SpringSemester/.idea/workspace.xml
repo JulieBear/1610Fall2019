@@ -50,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Light.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" />
@@ -133,6 +133,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/BullFab.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enummy.cs" />
       </list>
     </option>
   </component>
@@ -229,7 +230,10 @@
       <workItem from="1584418776498" duration="37000" />
       <workItem from="1584418859159" duration="1819000" />
       <workItem from="1584678931172" duration="2962000" />
-      <workItem from="1584855034203" duration="741000" />
+      <workItem from="1584855034203" duration="961000" />
+      <workItem from="1584980022597" duration="2000" />
+      <workItem from="1584980045823" duration="1000" />
+      <workItem from="1584980068804" duration="939000" />
     </task>
     <servers />
   </component>

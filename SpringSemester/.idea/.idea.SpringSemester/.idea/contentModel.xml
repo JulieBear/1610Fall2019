@@ -175,6 +175,7 @@
           <e p="DebuggerRe.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
           <e p="EnemyScr.cs" t="Include" />
+          <e p="Enummy.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
