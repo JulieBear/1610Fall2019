@@ -147,6 +147,7 @@
             <e p="GameArtColl.cs" t="Include" />
             <e p="List.cs" t="Include" />
           </e>
+          <e p="Collide.cs" t="Include" />
           <e p="Control.cs" t="Include" />
           <e p="CoroAge.cs" t="Include" />
           <e p="CoroDestroyTwo.cs" t="Include" />
