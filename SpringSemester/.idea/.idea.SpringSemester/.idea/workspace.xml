@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShootingTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" />
@@ -135,6 +135,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enummy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collide.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
       </list>
     </option>
   </component>
@@ -235,7 +236,8 @@
       <workItem from="1584980022597" duration="2000" />
       <workItem from="1584980045823" duration="1000" />
       <workItem from="1584980068804" duration="1104000" />
-      <workItem from="1585115008276" duration="261000" />
+      <workItem from="1585115008276" duration="277000" />
+      <workItem from="1585284917126" duration="1255000" />
     </task>
     <servers />
   </component>

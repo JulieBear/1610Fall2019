@@ -130,6 +130,11 @@
         </e>
         <e p="CorounDestroy.cs" t="Include" />
         <e p="FloatValue.cs" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="AIPrac" t="Include">
+            <e p="NavAgeBehav.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="AIHandler.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
