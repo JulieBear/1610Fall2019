@@ -478,6 +478,9 @@ GameObject:
   - component: {fileID: 1542113419}
   - component: {fileID: 1542113418}
   - component: {fileID: 1542113422}
+  - component: {fileID: 1542113424}
+  - component: {fileID: 1542113423}
+  - component: {fileID: 1542113425}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -567,6 +570,54 @@ NavMeshObstacle:
   m_CarveOnlyStationary: 1
   m_Center: {x: 0, y: 0, z: 0}
   m_TimeToStationary: 0.5
+--- !u!114 &1542113423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1542113417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a0c0fc8c06394e9383368d3810b8695, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controller: {fileID: 0}
+  positi: {x: 0, y: 0, z: 0}
+  speed: 10
+  jumpForce: 20
+  grav: 3
+  maxJump: 2
+--- !u!143 &1542113424
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1542113417}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 1
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1542113425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1542113417}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1b55cbcfa8254bb7be7ae5dfd66e417, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullSpeed: 100
+  bull: {fileID: 1467887017136494, guid: 2cb04a95e5b454b33ad0793081b82d7a, type: 2}
+  player: {fileID: 1542113417}
 --- !u!1 &1606345731
 GameObject:
   m_ObjectHideFlags: 0

@@ -23,7 +23,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="SKIP_HIGHLIGHTING" />
@@ -53,6 +52,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collide.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,6 +73,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtColl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -85,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPB.cs" />
@@ -136,6 +136,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Enummy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collide.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHand.cs" />
       </list>
     </option>
   </component>
@@ -238,6 +239,7 @@
       <workItem from="1584980068804" duration="1104000" />
       <workItem from="1585115008276" duration="277000" />
       <workItem from="1585284917126" duration="1255000" />
+      <workItem from="1585456096802" duration="2763000" />
     </task>
     <servers />
   </component>
