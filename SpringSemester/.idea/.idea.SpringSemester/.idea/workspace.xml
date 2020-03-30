@@ -39,8 +39,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/PlayerDataRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/ArtData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -56,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.4.0-preview.9/Runtime/com.unity.cinemachine.asmdef" root0="FORCE_HIGHLIGHTING" />
@@ -86,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPB.cs" />
         <option value="$PROJECT_DIR$/Assets/SelfDestroy.cs" />
@@ -107,7 +107,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Entrance.cs" />
         <option value="$PROJECT_DIR$/Assets/CorounDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" />
@@ -137,6 +136,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collide.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -240,6 +241,7 @@
       <workItem from="1585115008276" duration="277000" />
       <workItem from="1585284917126" duration="1255000" />
       <workItem from="1585456096802" duration="2763000" />
+      <workItem from="1585584496597" duration="2995000" />
     </task>
     <servers />
   </component>
