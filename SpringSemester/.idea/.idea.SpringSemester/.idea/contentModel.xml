@@ -165,6 +165,7 @@
           <e p="CoroRe.cs" t="Include" />
           <e p="Corostop.cs" t="Include" />
           <e p="Corou.cs" t="Include" />
+          <e p="CorouCl.cs" t="Include" />
           <e p="Data" t="Include">
             <e p="ArtData.cs" t="Include" />
             <e p="ArtGameData.cs" t="Include" />

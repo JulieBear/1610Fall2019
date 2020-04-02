@@ -50,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CorouCl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collide.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -87,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPB.cs" />
         <option value="$PROJECT_DIR$/Assets/SelfDestroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" />
@@ -134,10 +134,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enummy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collide.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CorouCl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
       </list>
     </option>
   </component>
@@ -242,6 +243,7 @@
       <workItem from="1585284917126" duration="1255000" />
       <workItem from="1585456096802" duration="2763000" />
       <workItem from="1585584496597" duration="2995000" />
+      <workItem from="1585758450984" duration="2434000" />
     </task>
     <servers />
   </component>
