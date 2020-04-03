@@ -16,15 +16,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shooting.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BullFab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CoroHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHandMem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShootingTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouCl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/Corou.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,10 +33,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIimageControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouStopTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/CorounDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,34 +50,26 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CorouCl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collide.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroDestruction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.4.0-preview.9/Runtime/com.unity.cinemachine.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPB.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C421EDCA-F2C0-468C-9E23-6F7BFD210936/a1/9bc5fc81/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyScr.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Control.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerRe.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtColl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CinemachineCon.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,9 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroPB.cs" />
-        <option value="$PROJECT_DIR$/Assets/SelfDestroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CliSetPose.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
@@ -139,6 +128,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CorouCl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/AIPrac/NavAgeBehav.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouStopTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/Corou.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CoroHealth.cs" />
       </list>
     </option>
   </component>
@@ -243,7 +235,9 @@
       <workItem from="1585284917126" duration="1255000" />
       <workItem from="1585456096802" duration="2763000" />
       <workItem from="1585584496597" duration="2995000" />
-      <workItem from="1585758450984" duration="2434000" />
+      <workItem from="1585758450984" duration="3117000" />
+      <workItem from="1585891601560" duration="465000" />
+      <workItem from="1585892106901" duration="332000" />
     </task>
     <servers />
   </component>
@@ -293,32 +287,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs</url>
-          <line>8</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CoroDestroyTwo.cs" initialLine="8">
-            <startOffsets>
-              <option value="195" />
-            </startOffsets>
-            <endOffsets>
-              <option value="196" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/CoroRe.cs</url>
-          <line>42</line>
-          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/CoroRe.cs" initialLine="42">
-            <startOffsets>
-              <option value="664" />
-            </startOffsets>
-            <endOffsets>
-              <option value="665" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
