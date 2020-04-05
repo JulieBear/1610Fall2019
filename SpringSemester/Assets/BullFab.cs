@@ -13,7 +13,7 @@ public class BullFab : MonoBehaviour
 		rigidBod.velocity = transform.right * speed;
 	}
 
-	private void OnTriggerEnter2D(Collider2D hitInfo)
+	private void OnTriggerEnter (Collider hitInfo)
 	{
 		Debug.Log(hitInfo.name);
 		Destroy(gameObject);
