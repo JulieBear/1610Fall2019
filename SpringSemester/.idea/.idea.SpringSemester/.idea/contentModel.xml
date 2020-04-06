@@ -166,6 +166,7 @@
             <e p="CoroRe.cs" t="Include" />
             <e p="Corostop.cs" t="Include" />
             <e p="Corou.cs" t="Include" />
+            <e p="CorouAgeTwo.cs" t="Include" />
             <e p="CorouCl.cs" t="Include" />
             <e p="CorounDestroy.cs" t="Include" />
             <e p="CorouStopTwo.cs" t="Include" />

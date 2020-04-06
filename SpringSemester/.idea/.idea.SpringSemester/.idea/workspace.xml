@@ -28,14 +28,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/Corou.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIimageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouStopTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorounDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -80,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroPCU.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
@@ -131,6 +133,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/Corou.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CoroHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/BullFab.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" />
       </list>
     </option>
   </component>
@@ -238,7 +241,7 @@
       <workItem from="1585758450984" duration="3117000" />
       <workItem from="1585891601560" duration="465000" />
       <workItem from="1585892106901" duration="332000" />
-      <workItem from="1586019293217" duration="1413000" />
+      <workItem from="1586019293217" duration="2440000" />
     </task>
     <servers />
   </component>
