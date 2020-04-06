@@ -118,7 +118,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtColl.cs" />
         <option value="$PROJECT_DIR$/Assets/AgentHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ShootingTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" />
@@ -134,6 +133,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CoroHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/BullFab.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
       </list>
     </option>
   </component>
@@ -242,6 +242,7 @@
       <workItem from="1585891601560" duration="465000" />
       <workItem from="1585892106901" duration="332000" />
       <workItem from="1586019293217" duration="2440000" />
+      <workItem from="1586193163742" duration="378000" />
     </task>
     <servers />
   </component>
