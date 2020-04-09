@@ -5077,6 +5077,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1169924601}
   - component: {fileID: 1169924602}
+  - component: {fileID: 1169924603}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -5103,7 +5104,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1169924600}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3bcbe26ea0094fe9b48ac5536f3b38b, type: 3}
   m_Name: 
@@ -5111,6 +5112,20 @@ MonoBehaviour:
   firingSpot: {fileID: 1169924601}
   bullFab: {fileID: 1934799686936164, guid: f2437f11adc7b492bb4085d2e98f3eaf, type: 2}
   maxBull: 3
+--- !u!114 &1169924603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1169924600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d149a7c0ea031425390c6dacfe61f77c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fireSpot: {fileID: 1169924601}
+  dama: 30
+  imaEff: {fileID: 0}
 --- !u!1 &1305150486
 GameObject:
   m_ObjectHideFlags: 0
@@ -5142,19 +5157,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   heal: 50
-  deathEff: {fileID: 0}
---- !u!136 &1305150488
-CapsuleCollider:
+  deathEff: {fileID: 1305150486}
+--- !u!65 &1305150488
+BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1305150486}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 2
-  m_Direction: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 2, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1305150489
 MeshRenderer:

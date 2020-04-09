@@ -102,7 +102,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/imageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Shooting.cs" />
-        <option value="$PROJECT_DIR$/Assets/Weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScr.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" />
         <option value="$PROJECT_DIR$/Assets/StringData.cs" />
@@ -135,6 +134,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Weapon.cs" />
       </list>
     </option>
   </component>
@@ -244,7 +244,7 @@
       <workItem from="1585892106901" duration="332000" />
       <workItem from="1586019293217" duration="2440000" />
       <workItem from="1586193163742" duration="406000" />
-      <workItem from="1586362827532" duration="1706000" />
+      <workItem from="1586362827532" duration="2524000" />
     </task>
     <servers />
   </component>

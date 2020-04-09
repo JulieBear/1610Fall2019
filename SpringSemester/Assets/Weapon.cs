@@ -2,10 +2,12 @@
 
 public class Weapon : MonoBehaviour
 {
-	public GameObject bulletPre;
+//	public GameObject bulletPre;
 	public Transform fireSpot;
+	public int dama = 30;
+	public GameObject imaEff;
 	
-	// Update is called once per frame
+	
 	void Update () {
 		if (Input.GetButtonDown("Fire1"))
 		{
@@ -15,6 +17,17 @@ public class Weapon : MonoBehaviour
 
 	void Shot()
 	{
-		Instantiate(bulletPre, fireSpot.position, fireSpot.rotation);
+		RaycastHit2D hitInformation = Physics2D.Raycast(fireSpot.position, fireSpot.right);
+
+		if (hitInformation)
+		{
+			Ene enemy = hitInformation.transform.GetComponent<Ene>();
+			if (enemy != null)
+			{
+				enemy.Damaging(dama);
+			}
+
+			Instantiate(imaEff, hitInformation.point, Quaternion.identity);
+		}
 	}
 }
