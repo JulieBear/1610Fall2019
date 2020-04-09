@@ -83,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatDataA.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" />
@@ -134,6 +133,7 @@
         <option value="$PROJECT_DIR$/Assets/BullFab.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" />
       </list>
     </option>
   </component>
@@ -242,7 +242,8 @@
       <workItem from="1585891601560" duration="465000" />
       <workItem from="1585892106901" duration="332000" />
       <workItem from="1586019293217" duration="2440000" />
-      <workItem from="1586193163742" duration="378000" />
+      <workItem from="1586193163742" duration="406000" />
+      <workItem from="1586362827532" duration="604000" />
     </task>
     <servers />
   </component>
