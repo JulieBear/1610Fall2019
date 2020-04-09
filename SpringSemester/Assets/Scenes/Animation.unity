@@ -205,6 +205,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ed3e6ebf2b3c4bc1be0c882ced67e4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  key1: 276
+  key2: 114
+  dir1: 180
+  dir2: 100
   threeD: {fileID: 11400000, guid: 50ed43b8a294a459aafee828dac2a8c4, type: 2}
 --- !u!4 &280676491
 Transform:

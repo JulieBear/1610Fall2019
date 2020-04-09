@@ -188,6 +188,7 @@
           </e>
           <e p="DebuggerRe.cs" t="Include" />
           <e p="Destroy.cs" t="Include" />
+          <e p="Ene.cs" t="Include" />
           <e p="EnemyScr.cs" t="Include" />
           <e p="Enummy.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />

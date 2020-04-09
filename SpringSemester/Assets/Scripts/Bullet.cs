@@ -13,10 +13,10 @@ public class Bullet : MonoBehaviour {
 
 	private void OnTriggerEnter2D(Collider2D hitInformation)
 	{
-		EnemyScr enemy = hitInformation.GetComponent<EnemyScr>();
+		Ene enemy = hitInformation.GetComponent<Ene>();
 		if (enemy != null)
 		{
-			enemy.AbsorbDamage(dama);
+			enemy.Damaging(dama);
 		}
 		Destroy(gameObject);
 		

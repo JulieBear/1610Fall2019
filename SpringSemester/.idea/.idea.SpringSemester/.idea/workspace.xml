@@ -56,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collide.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" />
@@ -104,7 +104,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Shooting.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyScr.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroAge.cs" />
         <option value="$PROJECT_DIR$/Assets/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" />
@@ -134,6 +133,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlippingRe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
       </list>
     </option>
   </component>
@@ -243,7 +244,7 @@
       <workItem from="1585892106901" duration="332000" />
       <workItem from="1586019293217" duration="2440000" />
       <workItem from="1586193163742" duration="406000" />
-      <workItem from="1586362827532" duration="604000" />
+      <workItem from="1586362827532" duration="1706000" />
     </task>
     <servers />
   </component>
