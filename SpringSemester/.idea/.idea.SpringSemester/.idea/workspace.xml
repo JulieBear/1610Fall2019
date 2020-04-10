@@ -58,7 +58,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/AIPrac/AIHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ene.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityInClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SelfDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GunThree.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.4.0-preview.9/Runtime/com.unity.cinemachine.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsLoops.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,8 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/ArtData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ArtCollect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ArtGameData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClockData.cs" />
@@ -135,6 +135,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/GunThree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet1.cs" />
       </list>
     </option>
   </component>
@@ -245,6 +247,7 @@
       <workItem from="1586019293217" duration="2440000" />
       <workItem from="1586193163742" duration="406000" />
       <workItem from="1586362827532" duration="2524000" />
+      <workItem from="1586495798774" duration="996000" />
     </task>
     <servers />
   </component>

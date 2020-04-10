@@ -129,6 +129,7 @@
           </e>
         </e>
         <e p="FloatValue.cs" t="Include" />
+        <e p="GunThree.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="AIPrac" t="Include">
             <e p="AIHand.cs" t="Include" />
@@ -140,6 +141,7 @@
           <e p="AmmoDisa.cs" t="Include" />
           <e p="ArtCollect.cs" t="Include" />
           <e p="Bullet.cs" t="Include" />
+          <e p="Bullet1.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="CineMac.cs" t="Include" />
