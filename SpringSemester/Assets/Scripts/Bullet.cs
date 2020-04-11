@@ -16,9 +16,10 @@ public class Bullet : MonoBehaviour {
 		Ene enemy = hitInformation.GetComponent<Ene>();
 		if (enemy != null)
 		{
-			enemy.Damaging(dama);
+			//enemy.Damaging(dama);
+			Debug.Log("check");
+			Destroy(gameObject);
 		}
-		Destroy(gameObject);
-		
+
 	}
 }

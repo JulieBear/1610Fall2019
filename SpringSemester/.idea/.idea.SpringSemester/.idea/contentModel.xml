@@ -130,6 +130,7 @@
         </e>
         <e p="FloatValue.cs" t="Include" />
         <e p="GunThree.cs" t="Include" />
+        <e p="HealthHere.cs" t="Include" />
         <e p="Scenes" t="Include">
           <e p="AIPrac" t="Include">
             <e p="AIHand.cs" t="Include" />
@@ -194,6 +195,7 @@
           <e p="EnemyScr.cs" t="Include" />
           <e p="Enummy.cs" t="Include" />
           <e p="EnumSwitchRe.cs" t="Include" />
+          <e p="Flip.cs" t="Include" />
           <e p="FlippingRe.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
           <e p="Gun.cs" t="Include" />
