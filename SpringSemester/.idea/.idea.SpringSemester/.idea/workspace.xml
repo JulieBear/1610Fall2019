@@ -53,6 +53,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Monobehaviours.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collide.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enummy.cs" root0="FORCE_HIGHLIGHTING" />
@@ -64,6 +65,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/GunThree.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.cinemachine@2.4.0-preview.9/Runtime/com.unity.cinemachine.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Light.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Data/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ClockData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Destroy.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" />
@@ -139,6 +141,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo1.cs" />
       </list>
     </option>
   </component>
@@ -251,6 +254,8 @@
       <workItem from="1586362827532" duration="2524000" />
       <workItem from="1586495798774" duration="996000" />
       <workItem from="1586547204636" duration="1070000" />
+      <workItem from="1586841159993" duration="53000" />
+      <workItem from="1586841245280" duration="700000" />
     </task>
     <servers />
   </component>

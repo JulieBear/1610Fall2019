@@ -139,6 +139,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Ammo.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
           <e p="ArtCollect.cs" t="Include" />
           <e p="Bullet.cs" t="Include" />
@@ -170,6 +171,7 @@
             <e p="Corostop.cs" t="Include" />
             <e p="Corou.cs" t="Include" />
             <e p="CorouAgeTwo.cs" t="Include" />
+            <e p="CorouAgeTwo1.cs" t="Include" />
             <e p="CorouCl.cs" t="Include" />
             <e p="CorounDestroy.cs" t="Include" />
             <e p="CorouStopTwo.cs" t="Include" />
@@ -200,6 +202,7 @@
           <e p="Gravity.cs" t="Include" />
           <e p="Gun.cs" t="Include" />
           <e p="GunTwo.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
           <e p="Ifstate.cs" t="Include" />
           <e p="imageBehaviour.cs" t="Include" />
           <e p="IntDataObj.cs" t="Include" />
@@ -213,6 +216,7 @@
           <e p="PlayerHand.cs" t="Include" />
           <e p="PlayerHandMem.cs" t="Include" />
           <e p="RigidBodyForce.cs" t="Include" />
+          <e p="Shooter.cs" t="Include" />
           <e p="Shooting.cs" t="Include" />
           <e p="ShootingTwo.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
