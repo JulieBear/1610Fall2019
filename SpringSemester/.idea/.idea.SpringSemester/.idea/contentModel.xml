@@ -139,6 +139,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Aging.cs" t="Include" />
           <e p="Ammo.cs" t="Include" />
           <e p="AmmoDisa.cs" t="Include" />
           <e p="ArtCollect.cs" t="Include" />
