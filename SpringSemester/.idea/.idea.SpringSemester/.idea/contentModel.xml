@@ -160,6 +160,7 @@
           <e p="Collide.cs" t="Include" />
           <e p="Control.cs" t="Include" />
           <e p="Corou" t="Include">
+            <e p="CorLetu.cs" t="Include" />
             <e p="CoroAge.cs" t="Include" />
             <e p="CoroDestroyTwo.cs" t="Include" />
             <e p="CoroDestruction.cs" t="Include" />

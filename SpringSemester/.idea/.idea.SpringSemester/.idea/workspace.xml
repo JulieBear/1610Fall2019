@@ -31,8 +31,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/Corostop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumSwitchRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpriteController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorLetu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEventsRe.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CoroAge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIimageControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GunTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -92,8 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Destroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CoroPD.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/UIimageControl.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatValue.cs" />
@@ -143,6 +143,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Aging.cs" />
+        <option value="$PROJECT_DIR$/Assets/Coroutines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorLetu.cs" />
       </list>
     </option>
   </component>
@@ -258,7 +260,8 @@
       <workItem from="1586841159993" duration="53000" />
       <workItem from="1586841245280" duration="700000" />
       <workItem from="1586982969675" duration="19000" />
-      <workItem from="1587094601196" duration="965000" />
+      <workItem from="1587094601196" duration="1436000" />
+      <workItem from="1587361005113" duration="848000" />
     </task>
     <servers />
   </component>
