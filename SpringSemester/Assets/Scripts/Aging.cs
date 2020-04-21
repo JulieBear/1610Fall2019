@@ -1,28 +1,38 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
 public class Aging : MonoBehaviour
 {
-	private WaitForFixedUpdate waitObj;
-	public int counter = 3;
 	public float seconds = 1f;
-	public IntDataObj numData;
-	public bool canRun = true;
-
-	public UnityEvent ontrigEnt;
+	private WaitForSeconds waitObj;
+	public bool canRun { get; set; } = true;
+	public UnityEvent repeatEvent;
 
 	private void Awake()
 	{
-		waitObj = new WaitForFixedUpdate();
+		waitObj = new WaitForSeconds(seconds);
 	}
 
-	IEnumerator OnTriggerEnter(Collider other)
+	public void Restart()
 	{
+		
+		StartCoroutine(OnStartCoroutine());
+	}
+
+	public IEnumerator OnStartCoroutine()
+	{
+		canRun = true;
 		while (canRun)
 		{
+			repeatEvent.Invoke();
 			yield return waitObj;
-			ontrigEnt.Invoke();
 		}
 	}
 }
+
+//onto the player 
+//put player on trigger behavior 
+//simpcoro - restart the coro 
+//health in canrun -change value

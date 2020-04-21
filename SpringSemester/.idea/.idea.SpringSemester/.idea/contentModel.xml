@@ -165,6 +165,7 @@
             <e p="CoroDestroyTwo.cs" t="Include" />
             <e p="CoroDestruction.cs" t="Include" />
             <e p="CoroHealth.cs" t="Include" />
+            <e p="CoroInClass.cs" t="Include" />
             <e p="CoroPA.cs" t="Include" />
             <e p="CoroPB.cs" t="Include" />
             <e p="CoroPCU.cs" t="Include" />
@@ -238,7 +239,7 @@
       <e p="SpringSemester.sln" t="IncludeFlat" />
       <e p="Temp/bin" t="ExcludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_SpringSemester.-2045566074.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_SpringSemester.-2045566074.00" t="ExcludeRecursive" />
   </component>
 </project>
