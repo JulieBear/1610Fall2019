@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class Aging : MonoBehaviour
 {
-	public float seconds = 1f;
+	public float seconds = 5f;
 	private WaitForSeconds waitObj;
 	public bool canRun { get; set; } = true;
 	public UnityEvent repeatEvent;
