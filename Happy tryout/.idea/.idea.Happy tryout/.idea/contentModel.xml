@@ -21,6 +21,7 @@
             <e p="AgentHandler2.cs" t="Include" />
             <e p="AIHandler.cs" t="Include" />
           </e>
+          <e p="Ammo.cs" t="Include" />
           <e p="ApplyForce.cs" t="Include" />
           <e p="CineMacController.cs" t="Include" />
           <e p="Coin.cs" t="Include" />
@@ -56,6 +57,7 @@
           <e p="GameActionHandler.cs" t="Include" />
           <e p="GameStates.cs" t="Include" />
           <e p="Gravity.cs" t="Include" />
+          <e p="Health.cs" t="Include" />
           <e p="IfFruit.cs" t="Include" />
           <e p="IfState.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
@@ -66,6 +68,8 @@
           <e p="ParticleControl.cs" t="Include" />
           <e p="ScriptObj.cs" t="Include" />
           <e p="SelfDestruct.cs" t="Include" />
+          <e p="Shoot.cs" t="Include" />
+          <e p="Shooter.cs" t="Include" />
           <e p="SpeedyUppy.cs" t="Include" />
           <e p="TagTest.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
