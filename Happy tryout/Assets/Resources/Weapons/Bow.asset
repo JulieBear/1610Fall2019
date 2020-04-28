@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8c535fc0660f433dbffa48811335f0c, type: 3}
   m_Name: Bow
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 0b0201f07a1ac4a9c9d519b8bcb774c4, type: 3}
   color: {r: 0, g: 0, b: 0, a: 0}
   prefab: {fileID: 1586918107535178, guid: 8809e6ea57a5b43c1a02eca1cf61dfdc, type: 2}
   weaponPower: 10
