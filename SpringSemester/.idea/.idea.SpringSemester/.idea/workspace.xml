@@ -45,12 +45,15 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Aging.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ifstate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/List.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NavMeshBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/CollectionList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MakeThisSim.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/Collable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClockData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIimageCon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHandMem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Trigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gravity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -94,10 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Data/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIimageControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/FloatValue.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/IntDataObj.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UITextCon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Entrance.cs" />
         <option value="$PROJECT_DIR$/Assets/CorounDestroy.cs" />
@@ -143,8 +142,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorouAgeTwo1.cs" />
         <option value="$PROJECT_DIR$/Assets/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Corou/CorLetu.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Aging.cs" />
+        <option value="$PROJECT_DIR$/Assets/NavMeshBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIimcon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MakeThisSim.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Trigger.cs" />
       </list>
     </option>
   </component>
@@ -256,6 +259,10 @@
       <workItem from="1587405652326" duration="858000" />
       <workItem from="1587411324564" duration="233000" />
       <workItem from="1587411596936" duration="911000" />
+      <workItem from="1588046135027" duration="1904000" />
+      <workItem from="1588049081632" duration="545000" />
+      <workItem from="1588049804153" duration="355000" />
+      <workItem from="1588052560656" duration="3000" />
     </task>
     <servers />
   </component>
@@ -306,6 +313,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/NavMeshBehaviour.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/NavMeshBehaviour.cs" initialLine="13">
+            <startOffsets>
+              <option value="248" />
+            </startOffsets>
+            <endOffsets>
+              <option value="249" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

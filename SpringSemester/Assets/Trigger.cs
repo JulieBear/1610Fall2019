@@ -14,7 +14,6 @@ public class Trigger : MonoBehaviour
 	
 	private void OnTriggerEnter(Collider other)
 	{
-		print("testing");
 		EvTest.Invoke();
 	}
 }
